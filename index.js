@@ -1,3 +1,3 @@
 "use strict";
-const gestName = 'Oleksii Oleksandrovich'
-console.log(`Hello, ${gestName}!`)
+const gestName = prompt("Enter your name");
+alert(`Hello, ${gestName}!`);
