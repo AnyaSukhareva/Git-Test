@@ -9,14 +9,17 @@
 <body>
 	<h1>Hello Git</h1>
 	<script src="index.js"></script>
-	
-<<<<<<< HEAD
-	<h1>Hello from Oleksii <em>Vodka</em></h1>
-=======
+
 	<h1>Hello from Oleksii Vodka</h1>
 	<h1>Hi. I am Kirill)</h1>
->>>>>>> 4ea95b528247e88d434baf4c66f0225c262497f2
+<<<<<<< HEAD
+
+
+
+	<p>new p</p>
+=======
 	
+>>>>>>> 4ea95b528247e88d434baf4c66f0225c262497f2
 	
 </body>
 </html>
